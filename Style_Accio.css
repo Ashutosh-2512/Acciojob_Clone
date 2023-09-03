@@ -1,0 +1,195 @@
+
+.navbarr{
+    background-color:#faf7ef;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Navbar-items>li{
+    margin: 10px;
+}
+.dropdownclass{
+
+    background-color: white !important;
+}
+.buttonLogin{
+    width: 7%;
+}
+.hero-sec{
+    height: 600px;
+}
+.form-box{
+        width: 27vw;
+        height: 55vh;
+        background-color: white;
+        border-radius: 4%;
+        box-shadow: 
+            5px -5px 50px 1px rgba(247, 125, 125, 0.738),    /* Top-right shadow, red color */
+            -5px -5px 50px 1px rgba(121, 121, 249, 0.741),  /* Top-left shadow, blue color */
+            5px 5px 50px 1px rgba(244, 184, 116, 0.718),   /* Bottom-right shadow, green color */
+            -5px 5px 50px 1px rgba(203, 131, 248, 0.708); /* Bottom-left shadow, orange color */
+}
+.search-div{
+    width: 90%;
+    height: 10%;
+    padding: 0px 12px;
+    border-radius: 12px;
+    border: none;
+    background: rgb(248, 248, 248);
+    color: rgb(130, 130, 130);
+
+}
+.search-div>input{
+    
+    width: 40vw;
+    height: 45px;
+    background-color:transparent;
+    border:none;
+}
+::placeholder{
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+}
+.apply-btn{
+    
+    width: 90%;
+    height: 10%;
+    color: white !important;
+    background: linear-gradient(90deg, rgba(0,152,255,1) 0%, rgba(178,0,255,1) 100%);
+}
+.timesRoman{
+    font-family: "Times New Roman", Times, serif;
+    opacity: 80%;
+}
+.Made-With{
+    height: 45px;
+    width: 250px;
+    box-shadow: 1px 1px 10px 10px rgba(228, 228, 228, 0.616);
+}
+.courses{
+    height: 800px;
+    background-color: rgb(236,248,255);
+}
+.text-purple{
+    color: rgb(99,88,236);
+}
+.courses-box{
+    width: 27vw;
+    height: 58vh;
+    background-color: white;
+    border-radius: 2%;
+}
+.small-box{
+    border-radius:7px;
+    height: 35px;
+    margin: 8px;
+    background-color: rgb(223,243,255);
+}
+.small-box1{
+    border-radius:7px;
+    height: 35px;
+    margin: 8px;
+    background-color: rgb(255,238,215);
+}
+.small-text{
+    color: rgb(30,120,176);
+    font-size: 12px;
+}
+.small-text1{
+    color: rgb(150,84,0);
+    font-size: 12px;
+}
+
+.Font-small-text{
+    font-family: 'Philosopher', sans-serif;
+}
+.text-gray{
+    color: rgba(58, 58, 58, 0.805);
+}
+.my-button > button {
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+}
+.Com-Class{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Place-com{
+    width: 50;
+}
+.Place-com>p {
+    font-family: ABeeZee;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    color: rgb(144, 56, 252);
+}
+.Place-com > div {
+    line-height: 23px;
+    font-family: ABeeZee;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(102, 102, 102);
+}
+.Place-com>h2 {
+    text-align: center;
+    font-family: ABeeZee;
+    font-style: italic;
+    font-weight: 600;
+}
+  
+.Companies{
+    width: 100%;
+}
+.check-com{
+    font-family: ABeeZee;
+    margin: 30px;
+    width: 300px;
+    height: 50px;
+    border-radius: 7px !important;
+}
+.Love-Wall{
+     width: 90%;
+     margin: auto;
+}
+.accio-text{
+    font-style: italic;
+    font-family: ABeeZee; 
+}
+.Name-Cards{
+    width: 100%;
+     box-sizing: border-box;
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+}
+.Name-items{
+    width: 400px;
+    padding: 15px;
+    border: 3px solid #dbdbdbff;
+    border-radius: 5px;
+    margin: 5px;
+    height: fit-content;
+}
+.prof-about>h5{
+     padding-top: 4px;
+     line-height: 20px !important;
+     font-family: ABeeZee; 
+}
+.prof-about>p{
+    line-height: 20px !important;
+     font-family: ABeeZee; 
+     color: rgb(123, 123, 123);
+}
+.reviews{
+    color: rgb(123, 123, 123);
+    font-family: ABeeZee; 
+    font-weight: 400;
+}
+.socialMedia{
+    width: 26px;
+    height: 26px;
+}
